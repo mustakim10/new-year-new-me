@@ -41,7 +41,7 @@ font-size: 20px;
 
 /* main step one */
 .main-one{
-    display: flex;
+     display: flex; 
     margin-top: 120px;
     margin-left: 150px;
 }
@@ -77,4 +77,83 @@ margin-top: 20px;
     color: #444343;
     font-weight: 400;
 font-size: 16px;
+}
+/* main step two/xtra section */
+/* .xtra{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 150px;
+}
+.xtra-details{
+
+}
+.xtra-title{
+    margin-top: 230px;
+    font-weight: 700;
+font-size: 40px;
+width: 300px;
+}
+.details{
+    color: #444343;
+    font-weight: 400;
+font-size: 16px;
+width: 420px;
+} */
+/* My plans */
+.my-plans{
+    
+}
+.section-title{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+}
+.plans-container{
+    display: flex;
+    margin-left: 380px;
+    
+}
+.plan{
+    width: 218px;
+height: 197px;
+gap: 24px;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 25px;
+}
+.plan-description{
+    color: #737272;
+    font-weight: 500;
+font-size: 25px;
+
+}
+    /* gradient */
+.gradient{
+    height: 300px;
+    margin: 140px 230px;
+    
+    background-image: url(../images/gradient2.png);
+    width: 1140px;
+
+}
+.gradient-title{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+.gra-details{
+    padding: 20px 645px 65px 65px ;
+}
+.gra-btn{
+    background: #FFFFFF;
+    width: 160px;
+height: 64px;
+padding: 20px 25px;
+}
+.gra-btn-text{
+    color: #F15B22;
+    font-weight: 600;
+font-size: 20px;
 }
