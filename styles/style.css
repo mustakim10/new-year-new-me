@@ -1,0 +1,80 @@
+/* header */
+.head{
+    width: 1600px;
+height: 808px;
+background-image: url(../images/banner/banner1.png);
+background-position: ;
+
+
+}
+.sub-head{
+
+}
+.head-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 65px;
+    margin: 115px 230px 0px 845px;
+    /* width: 525px;
+    height: 225px; */
+}
+.head-details{
+    width: 400px;
+    color: #444343;
+    font-weight: 400;
+font-size: 16px;
+padding-left: 850px;
+
+}
+.head-btn{
+    background: #F15B22;
+    border-radius: 5px;
+    border: none;
+    padding: 20px 25px;
+   margin-left: 850px;
+}
+.btn-text{
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 20px;
+}
+
+/* main step one */
+.main-one{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 150px;
+}
+.photo-one{
+    width: 569px;
+height: 723.3px;
+}
+.main-details{
+
+}
+.main-title-one{
+    margin-top: 230px;
+    font-weight: 700;
+font-size: 40px;
+width: 300px;
+margin-left: 90px;
+}
+.main-pera{
+    color: #444343;
+    font-weight: 400;
+font-size: 16px;
+width: 420px;
+margin-left: 90px;
+margin-top: 24px;
+}
+.main-ul{
+list-style-type: none;
+width: 450px;
+margin: 70px;
+margin-top: 20px;
+}
+.main-li{
+    color: #444343;
+    font-weight: 400;
+font-size: 16px;
+}
