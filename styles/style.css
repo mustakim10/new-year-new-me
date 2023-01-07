@@ -14,7 +14,8 @@ background-position: ;
     color: #151414;
     font-weight: 700;
     font-size: 65px;
-    margin: 115px 230px 0px 845px;
+    margin: 0px 230px 0px 845px;
+    padding-top: 200px;
     /* width: 525px;
     height: 225px; */
 }
@@ -72,6 +73,7 @@ list-style-type: none;
 width: 450px;
 margin: 70px;
 margin-top: 20px;
+
 }
 .main-li{
     color: #444343;
@@ -79,12 +81,15 @@ margin-top: 20px;
 font-size: 16px;
 }
 /* main step two/xtra section */
-/* .xtra{
+ .xtra{
     display: flex;
-    margin-top: 120px;
+    margin-top: 30px;
     margin-left: 150px;
+    gap: 100px;
+    margin-bottom: 100px;
 }
 .xtra-details{
+margin-left: 130px;
 
 }
 .xtra-title{
@@ -98,7 +103,7 @@ width: 300px;
     font-weight: 400;
 font-size: 16px;
 width: 420px;
-} */
+} 
 /* My plans */
 .my-plans{
     
@@ -110,7 +115,7 @@ font-size: 40px;
 }
 .plans-container{
     display: flex;
-    margin-left: 380px;
+    margin-left: 320px;
     
 }
 .plan{
@@ -131,16 +136,19 @@ font-size: 25px;
     /* gradient */
 .gradient{
     height: 300px;
-    margin: 140px 230px;
-    
+    margin: 140px 200px;
     background-image: url(../images/gradient2.png);
+    
+     /* background-image: url(../images/watch.png);  */
     width: 1140px;
 
 }
+
 .gradient-title{
     color: #FFFFFF;
     font-weight: 700;
     font-size: 40px;
+     /* background-image: url(../images/gradient2.png);  */
 
 }
 .gra-details{
